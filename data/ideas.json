@@ -1,0 +1,950 @@
+[
+    {
+        "id": 0,
+        "group": "solo",
+        "season": "winter",
+        "text": "Try a new recipe! "
+    },
+    {
+        "id": 1,
+        "group": "solo",
+        "season": "winter",
+        "text": "Binge-watch a TV series!"
+    },
+    {
+        "id": 2,
+        "group": "solo",
+        "season": "winter",
+        "text": "Start a DIY craft project – search for inspiration on the internet! "
+    },
+    {
+        "id": 3,
+        "group": "solo",
+        "season": "winter",
+        "text": "Host a cozy indoor picnic!"
+    },
+    {
+        "id": 4,
+        "group": "solo",
+        "season": "winter",
+        "text": "Read a book! "
+    },
+    {
+        "id": 5,
+        "group": "solo",
+        "season": "winter",
+        "text": "Have a spa day at home!"
+    },
+    {
+        "id": 6,
+        "group": "solo",
+        "season": "winter",
+        "text": "Write in a journal!"
+    },
+    {
+        "id": 7,
+        "group": "solo",
+        "season": "winter",
+        "text": "Make your own board game!"
+    },
+    {
+        "id": 8,
+        "group": "solo",
+        "season": "winter",
+        "text": "Learn a new skill online – coding, photography, or a new language.  "
+    },    
+  {
+    "id": 9,
+    "group": "solo",
+    "season": "winter",
+    "text": "Create a winter playlist"
+  },
+  {
+    "id": 10,
+    "group": "solo",
+    "season": "winter",
+    "text": "Try Pilates"
+  },
+  {
+    "id": 11,
+    "group": "solo",
+    "season": "winter",
+    "text": "Try Yoga! "
+  },
+  {
+    "id": 12,
+    "group": "solo",
+    "season": "winter",
+    "text": "Try Dance Workout at home!"
+  },
+  {
+    "id": 13,
+    "group": "solo",
+    "season": "winter",
+    "text": "Make homemade candles!"
+  },
+  {
+    "id": 14,
+    "group": "solo",
+    "season": "winter",
+    "text": "Watch nostalgic cartoons "
+  },
+  {
+    "id": 15,
+    "group": "solo",
+    "season": "winter",
+    "text": "Plan your dream vacation!"
+  },
+  {
+    "id": 16,
+    "group": "solo",
+    "season": "winter",
+    "text": "Do an indoor photoshoot!"
+  },
+  {
+    "id": 17,
+    "group": "solo",
+    "season": "winter",
+    "text": "Write letters to your future self"
+  },
+  {
+    "id": 18,
+    "group": "solo",
+    "season": "winter",
+    "text": "Create a scrapbook!"
+  },
+  {
+    "id": 19,
+    "group": "solo",
+    "season": "winter",
+    "text": "Go stargazing"
+  },
+  {
+    "id": 20,
+    "group": "solo",
+    "season": "winter",
+    "text": "Try a new video game!"
+  },
+  {
+    "id": 21,
+    "group": "solo",
+    "season": "winter",
+    "text": "Organize your closet ;) "
+  },
+  {
+    "id": 22,
+    "group": "solo",
+    "season": "winter",
+    "text": "Make a vision board for the year!"
+  },
+  {
+    "id": 23,
+    "group": "solo",
+    "season": "winter",
+    "text": "Try meditation or mindfulness exercises!"
+  },
+  {
+    "id": 24,
+    "group": "solo",
+    "season": "winter",
+    "text": "Paint or draw yourself - or anything else you like."
+  },
+  {
+    "id": 25,
+    "group": "friends",
+    "season": "winter",
+    "text": "Build a blanket fort – Then watch movies inside it!"
+  },
+  {
+    "id": 26,
+    "group": "friends",
+    "season": "winter",
+    "text": "Have a hot chocolate tasting – try different toppings and flavors."
+  },
+  {
+    "id": 27,
+    "group": "friends",
+    "season": "winter",
+    "text": "Do an online escape room – Challenge yourself and friends."
+  },
+  {
+    "id": 28,
+    "group": "friends",
+    "season": "winter",
+    "text": "Trivia Night – Challenge each other to a trivia night with winter-themed questions or general knowledge."
+  },
+  {
+    "id": 29,
+    "group": "friends",
+    "season": "winter",
+    "text": "Winter Bonfire – if it’s safe, have a bonfire outside and roast marshmallows or make s’mores."
+  },
+  {
+    "id": 30,
+    "group": "friends",
+    "season": "winter",
+    "text": "Build a Snowman!"
+  },
+  {
+    "id": 31,
+    "group": "friends",
+    "season": "winter",
+    "text": "Make a Winter Bucket List – write down fun activities you’d like to do this winter and start crossing things off together."
+  },
+  {
+    "id": 32,
+    "group": "friends",
+    "season": "winter",
+    "text": "Make a winter theme party!"
+  },
+  {
+    "id": 33,
+    "group": "friends",
+    "season": "winter",
+    "text": "Karaoke night!"
+  },
+  {
+    "id": 34,
+    "group": "friends",
+    "season": "winter",
+    "text": "DIY Sweater Decorating – try it on your old sweaters!"
+  },
+  {
+    "id": 35,
+    "group": "friends",
+    "season": "winter",
+    "text": "Winter Photoshoot together!"
+  },
+  {
+    "id": 36,
+    "group": "friends",
+    "season": "winter",
+    "text": "Play board game!"
+  },
+  {
+    "id": 37,
+    "group": "friends",
+    "season": "winter",
+    "text": "Sledding"
+  },
+  {
+    "id": 38,
+    "group": "friends",
+    "season": "winter",
+    "text": "Snowball Fight!"
+  },
+  {
+    "id": 39,
+    "group": "friends",
+    "season": "winter",
+    "text": "Ice Skating"
+  },
+  {
+    "id": 40,
+    "group": "friends",
+    "season": "winter",
+    "text": "Make a cooking challenge"
+  },
+  {
+    "id": 41,
+    "group": "friends",
+    "season": "winter",
+    "text": "Watch your childhood albums"
+  },
+  {
+    "id": 42,
+    "group": "friends",
+    "season": "winter",
+    "text": "Make Frozen Bubbles"
+  },
+  {
+    "id": 43,
+    "group": "friends",
+    "season": "winter",
+    "text": "Play video games – like FIFA or Just Dance."
+  },
+  {
+    "id": 44,
+    "group": "friends",
+    "season": "winter",
+    "text": "DIY Lip Balm Making"
+  },
+  {
+    "id": 45,
+    "group": "friends",
+    "season": "winter",
+    "text": "Choose each other and then paint/draw and guess who is who!"
+  },
+  {
+    "id": 46,
+    "group": "friends",
+    "season": "winter",
+    "text": "Secret Santa!"
+  },
+  {
+    "id": 47,
+    "group": "friends",
+    "season": "winter",
+    "text": "Making Christmas chain with friends!"
+  },
+  {
+    "id": 48,
+    "group": "friends",
+    "season": "winter",
+    "text": "Shopping together!"
+  },
+  {
+    "id": 49,
+    "group": "friends",
+    "season": "winter",
+    "text": "Winter Nature Walk"
+  },
+  {
+    "id": 50,
+    "group": "couple",
+    "season": "winter",
+    "text": "Build a blanket fort – Then watch movies inside it!"
+  },
+  {
+    "id": 51,
+    "group": "couple",
+    "season": "winter",
+    "text": "Make or buy and drink hot chocolate bubble!"
+  },
+  {
+    "id": 52,
+    "group": "couple",
+    "season": "winter",
+    "text": "Go to escape room!"
+  },
+  {
+    "id": 53,
+    "group": "couple",
+    "season": "winter",
+    "text": "Feed the ducks"
+  },
+  {
+    "id": 54,
+    "group": "couple",
+    "season": "winter",
+    "text": "Build a Snowman!"
+  },
+  {
+    "id": 55,
+    "group": "couple",
+    "season": "winter",
+    "text": "Cook something sweet!"
+  },
+  {
+    "id": 56,
+    "group": "couple",
+    "season": "winter",
+    "text": "Winter Nature Walk"
+  },
+  {
+    "id": 57,
+    "group": "couple",
+    "season": "winter",
+    "text": "Go to the retro cafe  "
+  },
+  {
+    "id": 58,
+    "group": "couple",
+    "season": "winter",
+    "text": "Make painting date!"
+  },
+  {
+    "id": 59,
+    "group": "couple",
+    "season": "winter",
+    "text": "Create album full of your photos!"
+  },
+  {
+    "id": 60,
+    "group": "couple",
+    "season": "winter",
+    "text": "Make new year bingo!"
+  },
+  {
+    "id": 61,
+    "group": "couple",
+    "season": "winter",
+    "text": "Dig dinosaurs – it's not so expensive ; )"
+  },
+  {
+    "id": 62,
+    "group": "couple",
+    "season": "winter",
+    "text": "Go ice skating"
+  },
+  {
+    "id": 63,
+    "group": "couple",
+    "season": "winter",
+    "text": "Try Yoga for couples  "
+  },
+  {
+    "id": 64,
+    "group": "couple",
+    "season": "winter",
+    "text": "Studie date in the library "
+  },
+  {
+    "id": 65,
+    "group": "couple",
+    "season": "winter",
+    "text": "Watch favourite movie of each other"
+  },
+  {
+    "id": 66,
+    "group": "couple",
+    "season": "winter",
+    "text": "Winter Picnic"
+  },
+  {
+    "id": 67,
+    "group": "couple",
+    "season": "winter",
+    "text": "Candlelit Dinner at Home"
+  },
+  {
+    "id": 68,
+    "group": "couple",
+    "season": "winter",
+    "text": "Winter Photoshoot"
+  },
+  {
+    "id": 69,
+    "group": "couple",
+    "season": "winter",
+    "text": "Make a Winter Bucket List"
+  },
+  {
+    "id": 70,
+    "group": "couple",
+    "season": "winter",
+    "text": "Decorate Christmas tree  "
+  },
+  {
+    "id": 71,
+    "group": "couple",
+    "season": "winter",
+    "text": "Make Gingerbread cookies but in extraordinary shapes – for example dinosaurs!"
+  },
+  {
+    "id": 72,
+    "group": "couple",
+    "season": "winter",
+    "text": "Go to a Winter Festival"
+  },
+  {
+    "id": 73,
+    "group": "couple",
+    "season": "winter",
+    "text": "Cozy Reading Day"
+  },
+  {
+    "id": 74,
+    "group": "couple",
+    "season": "winter",
+    "text": "Plan a Dream Winter Vacation"
+  },
+  {
+    "id": 75,
+    "group": "couple",
+    "season": "winter",
+    "text": "Winter Stargazing"
+  },
+  {
+    "id": 76,
+    "group": "couple",
+    "season": "winter",
+    "text": "Create a Winter Playlist for you two only <3"
+  },
+  {
+    "id": 77,
+    "group": "couple",
+    "season": "winter",
+    "text": "Write Love Letters"
+  },
+  {
+    "id": 78,
+    "group": "couple",
+    "season": "winter",
+    "text": "Move in together  "
+  },
+  {
+    "id": 79,
+    "group": "couple",
+    "season": "winter",
+    "text": "Play mystery board or video game!"
+  },
+  {
+    "id": 80,
+    "group": "solo",
+    "season": "spring",
+    "text": "Visit a Farmers' Market"
+  },
+  {
+    "id": 81,
+    "group": "solo",
+    "season": "spring",
+    "text": "Picnic in the Park"
+  },
+  {
+    "id": 82,
+    "group": "solo",
+    "season": "spring",
+    "text": "Start a small garden!"
+  },
+  {
+    "id": 83,
+    "group": "solo",
+    "season": "spring",
+    "text": "Read Outdoors"
+  },
+  {
+    "id": 84,
+    "group": "solo",
+    "season": "spring",
+    "text": "Go birdwatching!"
+  },
+  {
+    "id": 85,
+    "group": "solo",
+    "season": "spring",
+    "text": "Spring Cleaning"
+  },
+  {
+    "id": 86,
+    "group": "solo",
+    "season": "spring",
+    "text": "Visit a Botanical Garden"
+  },
+  {
+    "id": 87,
+    "group": "solo",
+    "season": "spring",
+    "text": "Go on a Scenic Drive"
+  },
+  {
+    "id": 88,
+    "group": "solo",
+    "season": "spring",
+    "text": "Do Yoga Outdoors"
+  },
+  {
+    "id": 89,
+    "group": "solo",
+    "season": "spring",
+    "text": "Plan a Spring Getaway"
+  },
+  {
+    "id": 90,
+    "group": "solo",
+    "season": "spring",
+    "text": "Start a Spring Journal"
+  },
+  {
+    "id": 91,
+    "group": "solo",
+    "season": "spring",
+    "text": "Watch the Sunset or Sunrise"
+  },
+  {
+    "id": 92,
+    "group": "solo",
+    "season": "spring",
+    "text": "Try Geocaching"
+  },
+  {
+    "id": 93,
+    "group": "solo",
+    "season": "spring",
+    "text": "Do spring fashion/wardrobe refresh!"
+  },
+  {
+    "id": 94,
+    "group": "solo",
+    "season": "spring",
+    "text": "Volunteer Outdoors"
+  },
+  {
+    "id": 95,
+    "group": "solo",
+    "season": "spring",
+    "text": "Try cycling!"
+  },
+  {
+    "id": 96,
+    "group": "solo",
+    "season": "spring",
+    "text": "Meditate in Nature"
+  },
+  {
+    "id": 97,
+    "group": "solo",
+    "season": "spring",
+    "text": "Make a Spring Playlist"
+  },
+  {
+    "id": 98,
+    "group": "solo",
+    "season": "spring",
+    "text": "Decorate your home in spring theme"
+  },
+  {
+    "id": 99,
+    "group": "solo",
+    "season": "spring",
+    "text": "Colect flowers outside and make bouquet!"
+  },
+  {
+    "id": 100,
+    "group": "solo",
+    "season": "spring",
+    "text": "Visit a friend that you haven’t seen for a while!"
+  },
+  {
+    "id": 101,
+    "group": "solo",
+    "season": "spring",
+    "text": "Play Pokemon Go"
+  },
+  {
+    "id": 102,
+    "group": "solo",
+    "season": "spring",
+    "text": "Paint in nature"
+  },
+  {
+    "id": 103,
+    "group": "solo",
+    "season": "spring",
+    "text": "Take evening walk with headphones on!"
+  },
+  {
+    "id": 104,
+    "group": "solo",
+    "season": "spring",
+    "text": "Wash the windows"
+  },
+  {
+    "id": 105,
+    "group": "solo",
+    "season": "spring",
+    "text": "Do a backflip"
+  },
+  {
+    "id": 106,
+    "group": "friends",
+    "season": "spring",
+    "text": "Host an Outdoor Movie Night!"
+  },
+  {
+    "id": 107,
+    "group": "friends",
+    "season": "spring",
+    "text": "Bake spring treats together and make spring theme party!"
+  },
+  {
+    "id": 108,
+    "group": "friends",
+    "season": "spring",
+    "text": "Spring hike – watch out for bears."
+  },
+  {
+    "id": 109,
+    "group": "friends",
+    "season": "spring",
+    "text": "Barbecue Party!"
+  },
+  {
+    "id": 110,
+    "group": "friends",
+    "season": "spring",
+    "text": "Play some outdoor games in a park (Frisbee or Capture the Flag)"
+  },
+  {
+    "id": 111,
+    "group": "friends",
+    "season": "spring",
+    "text": "Volunteer together <3"
+  },
+  {
+    "id": 112,
+    "group": "friends",
+    "season": "spring",
+    "text": "Create a Nature Scavenger Hunt"
+  },
+  {
+    "id": 113,
+    "group": "friends",
+    "season": "spring",
+    "text": "Visit an arboretum"
+  },
+  {
+    "id": 114,
+    "group": "friends",
+    "season": "spring",
+    "text": "Spring Cleaning Challenge"
+  },
+  {
+    "id": 115,
+    "group": "friends",
+    "season": "spring",
+    "text": "Attend a Spring Festival"
+  },
+  {
+    "id": 116,
+    "group": "friends",
+    "season": "spring",
+    "text": "Go on a Food Truck Crawl"
+  },
+  {
+    "id": 117,
+    "group": "friends",
+    "season": "spring",
+    "text": "Plan a day trip to a nearby town!"
+  },
+  {
+    "id": 118,
+    "group": "friends",
+    "season": "spring",
+    "text": "Spring-Themed Karaoke Party!"
+  },
+  {
+    "id": 119,
+    "group": "friends",
+    "season": "spring",
+    "text": "DIY Spring Cocktails"
+  },
+  {
+    "id": 120,
+    "group": "friends",
+    "season": "spring",
+    "text": "Attend an outdoor concert"
+  },
+  {
+    "id": 121,
+    "group": "friends",
+    "season": "spring",
+    "text": "Take a dance class together"
+  },
+  {
+    "id": 122,
+    "group": "friends",
+    "season": "spring",
+    "text": "Host a Spring-Themed Costume Party"
+  },
+  {
+    "id": 123,
+    "group": "friends",
+    "season": "spring",
+    "text": "Go fruit picking!"
+  },
+  {
+    "id": 124,
+    "group": "friends",
+    "season": "spring",
+    "text": "Farm Stay or Glamping"
+  },
+  {
+    "id": 125,
+    "group": "friends",
+    "season": "spring",
+    "text": "Do a Bike Scavenger Hunt"
+  },
+  {
+    "id": 126,
+    "group": "friends",
+    "season": "spring",
+    "text": "Visit a Local Zoo or Wildlife Sanctuary"
+  },
+  {
+    "id": 127,
+    "group": "friends",
+    "season": "spring",
+    "text": "Attend a Local Sports Game"
+  },
+  {
+    "id": 128,
+    "group": "friends",
+    "season": "spring",
+    "text": "Go to a Flowers Field"
+  },
+  {
+    "id": 129,
+    "group": "friends",
+    "season": "spring",
+    "text": "Go Fruit Picking"
+  },
+  {
+    "id": 130,
+    "group": "friends",
+    "season": "spring",
+    "text": "Do a Flower-Arranging Workshop"
+  },
+  {
+    "id": 131,
+    "group": "couple",
+    "season": "spring",
+    "text": "Stroll Through a Flower Field"
+  },
+  {
+    "id": 132,
+    "group": "couple",
+    "season": "spring",
+    "text": "Hot Air Balloon Ride"
+  },
+  {
+    "id": 133,
+    "group": "couple",
+    "season": "spring",
+    "text": "Couple’s Spa Day"
+  },
+  {
+    "id": 134,
+    "group": "couple",
+    "season": "spring",
+    "text": "Watch the Sunset by the Water"
+  },
+  {
+    "id": 135,
+    "group": "couple",
+    "season": "spring",
+    "text": "Go Stargazing in a Quiet Spot"
+  },
+  {
+    "id": 136,
+    "group": "couple",
+    "season": "spring",
+    "text": "Take a Dance Under the Stars"
+  },
+  {
+    "id": 137,
+    "group": "couple",
+    "season": "spring",
+    "text": "Create a Memory Jar"
+  },
+  {
+    "id": 138,
+    "group": "couple",
+    "season": "spring",
+    "text": "Take a Boat Ride Together"
+  },
+  {
+    "id": 139,
+    "group": "couple",
+    "season": "spring",
+    "text": "Make a Couples’ Scrapbook"
+  },
+  {
+    "id": 140,
+    "group": "couple",
+    "season": "spring",
+    "text": "Visit a Botanical Garden"
+  },
+  {
+    "id": 141,
+    "group": "couple",
+    "season": "spring",
+    "text": "Visit a Local Zoo or Wildlife Sanctuar"
+  },
+  {
+    "id": 142,
+    "group": "couple",
+    "season": "spring",
+    "text": "Cook a Special Meal Together"
+  },
+  {
+    "id": 143,
+    "group": "couple",
+    "season": "spring",
+    "text": "Horseback Ride Through the Countryside"
+  },
+  {
+    "id": 144,
+    "group": "couple",
+    "season": "spring",
+    "text": "Create a Playlist of Your Love Songs"
+  },
+  {
+    "id": 145,
+    "group": "couple",
+    "season": "spring",
+    "text": "Take an Evening Walk Hand-in-Hand"
+  },
+  {
+    "id": 146,
+    "group": "couple",
+    "season": "spring",
+    "text": "Watch the Sunrise Together"
+  },
+  {
+    "id": 147,
+    "group": "couple",
+    "season": "spring",
+    "text": "Plan a \"Just Us\" Day"
+  },
+  {
+    "id": 148,
+    "group": "couple",
+    "season": "spring",
+    "text": "Take Polaroids Together"
+  },
+  {
+    "id": 149,
+    "group": "couple",
+    "season": "spring",
+    "text": "Sunset Picnic"
+  },
+  {
+    "id": 150,
+    "group": "couple",
+    "season": "spring",
+    "text": "Go Fruit Picking"
+  },
+  {
+    "id": 151,
+    "group": "couple",
+    "season": "spring",
+    "text": "Go to the cinema if there is anything interesting"
+  },
+  {
+    "id": 152,
+    "group": "couple",
+    "season": "spring",
+    "text": "Visit a Flower Garden"
+  },
+  {
+    "id": 153,
+    "group": "couple",
+    "season": "spring",
+    "text": "Take a cooking class together"
+  },
+  {
+    "id": 154,
+    "group": "couple",
+    "season": "spring",
+    "text": "Write Love Letters to Each Other"
+  },
+  {
+    "id": 155,
+    "group": "couple",
+    "season": "spring",
+    "text": "Wash windows together at your new house! (Move in together before)"
+  },
+  {
+    "id": 156,
+    "group": "couple",
+    "season": "spring",
+    "text": "Go on a spontaneous weekend trip!"
+  },
+  {
+    "id": 157,
+    "group": "couple",
+    "season": "spring",
+    "text": "Meet your parents as a couple"
+  }
+]
