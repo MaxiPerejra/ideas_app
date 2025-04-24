@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/275e631c00.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="step1">
+        <header>
+            <p class="zielonek">Ideas for boring day</p>
+            <p class="gen">GENERATOR</p>
+        </header>
+        <div class="container">
+            <div class="napis">
+                <p>Choose your target Group: </p>
+            </div>
+    
+            <div class="kwadraty">
+                <button class="lewo">
+                    <p>SOLO</p>
+                    <p>IDEAS</p>
+                    <i class="fa-solid fa-cloud"></i>
+                </button>
+                <button class="srodek">
+                    <p>FRIENDS</p>
+                    <p>IDEAS</p>
+                    <i class="fa-solid fa-user-group"></i>
+                </button>
+                <button class="prawo">
+                    <p>COUPLES</p>
+                    <p>IDEAS</p>
+                    <i class="fa-solid fa-heart"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="step2" class="hidden">
+        <header>
+            <p class="zielonek">Ideas for boring day</p>
+            <p class="gen">GENERATOR</p>
+        </header>
+        <div class="container">
+            <div class="napis">
+                <p>Choose your season: </p>
+            </div>
+
+            <div class="kwadraty2">
+                <button class="jeden" id="winterBtn">
+                    <p>WINTER</p>
+                    <i class="fa-solid fa-snowflake"></i>
+                </button>
+                <button class="dwa" id="springBtn">
+                    <p>SPRING</p>
+                    <i class="fa-solid fa-sun"></i>
+                </button>
+                <button class="trzy" id="summerBtn">
+                    <p>SUMMER</p>
+                    <i class="fa-solid fa-umbrella-beach"></i>
+                </button>
+                <button class="cztery" id="autumnBtn">
+                    <p>AUTUMN</p>
+                    <i class="fa-solid fa-leaf"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="step3" class="hidden">
+        <header>
+            <p class="zielonek">Ideas for boring day</p>
+            <p class="gen">GENERATOR</p>
+        </header>
+        <div class="container2">
+            <div class="napis">
+                <p>YOUR IDEA</p>
+            </div>
+            <div class="idea-container" id="idea-container">
+                <span id="idea"></span>
+            </div>
+            <button id="next-idea" class="new-idea">GENEREATE NEW IDEA</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
